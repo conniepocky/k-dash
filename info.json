@@ -1,0 +1,55 @@
+{
+	"groups": [
+		{
+		"name": "SHINee",
+		"img": "http://2.bp.blogspot.com/-p3g-2KE01Gs/UmdQ4kS8iPI/AAAAAAAAWN0/epf3NJju9y0/s1600/shinee-everybody-digital-booklet-2.jpg",
+		"members": "Onew Jonghyun Key Minho and Taemin"
+		}
+		{
+		"name": "Girls' Generation",
+		"img": "https://kprofiles.com/wp-content/uploads/2016/04/snsd-900x453.png",
+		"members": "Taeyeon Sunny Tiffany Hyoyeon Yuri Sooyoung Yoona Seohyun and Jessica (Former member)"
+		}
+		{
+		"name": "NCT",
+		"img": "https://uploads.disquscdn.com/images/54a88604a075d2d699b0997ea105517d053bea6fdecc33e29d39acdb44dddd6e.jpg",
+		"members": "Taeyong Taeil Johnny Yuta Kun Doyoung Jaehyun WinWin Jungwoo Lucas Mark Renjun Jeno Haechan Jaemin Chenle Jisung and Xiao Jun"
+		}
+		{
+		"name": "BTS",
+		"img": "https://uploads.disquscdn.com/images/8668ee24b6020a8ca684f671e79835aea01a63aa5b21fb07032c1cedf263accc.jpg?w=800&h=559",
+		"members": "Jin Suga J-Hope RM Jimin V and Jungkook"
+		}
+		{
+		"name": "GOT7",
+		"img": "https://kprofiles.com/wp-content/uploads/2016/04/Got7-1.jpg",
+		"members": "JB Mark Jackson Jinyoung Youngjae BamBam and Yugyeom"
+		}
+	]
+	"mvs": [
+		{
+		"link": "https://www.youtube.com/embed/roughtzsCDI",
+		"title": "Ring Ding Dong"
+		}
+		{
+		"link": "https://www.youtube.com/embed/nVCubhQ454c",
+		"title": "Lion Heart"
+		}
+		{
+		"link": "https://www.youtube.com/embed/MBdVXkSdhwU",
+		"title": "DNA"
+		}
+		{
+		"link": "https://www.youtube.com/embed/QslJYDX3o8s",
+		"title": "Russian Roulette"
+		}
+		{
+		"link": "https://www.youtube.com/embed/zEkg4GBQumc",
+		"title": "Don't Wanna Cry"
+		}
+		{
+		"link": "https://www.youtube.com/embed/4pUc7SD0PmU",
+		"title": "My First and Last"
+		}
+	]
+}
